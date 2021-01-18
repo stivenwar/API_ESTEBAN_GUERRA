@@ -5,7 +5,7 @@ class GamesRoutes {
     public router: Router = Router();
 
     constructor() {
-        this.config;
+        this.config();
 
     }
     config(): void {
